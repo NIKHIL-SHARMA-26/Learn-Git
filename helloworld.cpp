@@ -1,3 +1,3 @@
 void main(){
-cout<<"Hello world\n";
+cout<<"Hello world";
 }
